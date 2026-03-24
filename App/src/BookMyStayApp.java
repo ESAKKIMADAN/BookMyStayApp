@@ -1,4 +1,4 @@
-public class UseCase2RoomInitialization {
+public class BookMyStayApp {
 
     public static void main(String[] args) {
 
